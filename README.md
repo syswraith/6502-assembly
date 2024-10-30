@@ -1,5 +1,5 @@
 # 6502 assembly
-Why learn assembly? Because suffering builds character.
+Why learn assembly? Because suffering builds character.<br/>
 Why learn the 6502 variant? Because Terminator runs it!
 
 - [Skilldrick tutorial](https://skilldrick.github.io/easy6502/)
